@@ -17,7 +17,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built in Google Colab using the G
 ## Tech Stack
 
 - Python
-- Google Colab / Jupyter Notebook
+- Google Colab 
 - Google Gemini API (`google-genai` library)
 
 ## Installation
